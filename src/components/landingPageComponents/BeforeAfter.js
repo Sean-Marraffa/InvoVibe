@@ -58,7 +58,7 @@ function BeforeAfter() {
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
-                                    "Pay Now" button for instant payments.
+                                    Pay Now button for instant payments.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
