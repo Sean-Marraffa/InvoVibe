@@ -9,14 +9,14 @@ function BeforeAfter() {
                     <div className="flex items-center justify-center gap-1.5">
                         <X className='w-8 h-8 sm:w-6 sm:h-6 text-red-600' />
                         <h2 className='font-bold text-xl md:text-3xl text-center'>
-                            Other invoicing tools are complex and hard to use.
+                            Other tools: complicated, cluttered, and slow payments.
                         </h2>
                     </div>
 
                     <div className="flex items-center justify-center gap-1.5">
                         <Check className='w-8 h-8 sm:w-6 sm:h-6 text-green-600' />
                         <h2 className='font-bold text-xl md:text-3xl text-center text-balance'>
-                            InvoVibe is simple, with a clean interface and instant payment options.
+                            InvoVibe: simple, clean, and fast payments.
                         </h2>
                     </div>
                 </div>
