@@ -9,7 +9,7 @@ function BeforeAfter() {
                     <div className="flex items-center justify-center gap-1.5">
                         <X className='w-8 h-8 sm:w-6 sm:h-6 text-red-600' />
                         <h2 className='font-bold text-xl md:text-3xl text-center'>
-                            Other tools: complicated, cluttered, and slow payments.
+                            Others: complicated, cluttered, and slow payments.
                         </h2>
                     </div>
 
