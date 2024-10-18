@@ -11,30 +11,30 @@ function HeroSection() {
                 <div className="col-span-1 px-2 lg:px-0">
                     <div className="relative mx-auto text-center lg:text-left flex flex-col items-center lg:items-start">
                         <h1 className="relative w-fit tracking-tighter text-balance font-bold !leading-tight text-gray-900 text-5xl md:text-6xl">
-                            Your tagline here for your cool product
+                            Smooth, Effortless Invoicing with InvoVibe
                         </h1>
 
                         <p className="mt-8 text-balance text-lg max-w-prose text-center font-semibold lg:pr-10 md:text-wrap lg:text-left">
-                            This is a great place to describe your product and what it does. This is a great place to describe your product and what it does.
+                            InvoVibe helps small businesses create, send, and manage invoices effortlessly. With integrated payment options, it's never been easier to get paid on time and stay on top of your business finances.
                         </p>
 
                         <ul className="hidden mt-8 text-left font-medium md:flex flex-col items-center sm:items-start">
                             <div className="space-y-2">
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-5 w-5 shrink-0 text-green-600" />
-                                    Good reason one
+                                    Create Invoices Fast: Generate and send professional invoices in just a few clicks.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-5 w-5 shrink-0 text-green-600" />
-                                    Good reason two
+                                    Get Paid Quickly: Built-in payment button for seamless transactions.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-5 w-5 shrink-0 text-green-600" />
-                                    Good reason three
+                                    Organize With Ease: Manage all your invoices from a single, intuitive dashboard.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-5 w-5 shrink-0 text-green-600" />
-                                    Good reason four
+                                    Customizable Templates: Personalize your invoices to match your brand's look and feel.
                                 </li>
                             </div>
                         </ul>
