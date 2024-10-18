@@ -9,14 +9,14 @@ function BeforeAfter() {
                     <div className="flex items-center justify-center gap-1.5">
                         <X className='w-8 h-8 sm:w-6 sm:h-6 text-red-600' />
                         <h2 className='font-bold text-xl md:text-3xl text-center'>
-                            Insert reason for not using other bad alternatives
+                            Other invoicing tools are complex and hard to use.
                         </h2>
                     </div>
 
                     <div className="flex items-center justify-center gap-1.5">
                         <Check className='w-8 h-8 sm:w-6 sm:h-6 text-green-600' />
                         <h2 className='font-bold text-xl md:text-3xl text-center text-balance'>
-                            Insert reason for why using your product is better
+                            InvoVibe is simple, with a clean interface and instant payment options.
                         </h2>
                     </div>
                 </div>
@@ -29,19 +29,19 @@ function BeforeAfter() {
 
                                 <li className="flex gap-1.5 items-center text-left">
                                     <X className="h-4 w-4 shrink-0 text-red-500" />
-                                    bad bad bad bad bad bad bad
+                                    Cluttered interface.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <X className="h-4 w-4 shrink-0 text-red-500" />
-                                    bad bad bad bad bad bad bad
+                                    No payment integration.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <X className="h-4 w-4 shrink-0 text-red-500" />
-                                    bad bad bad bad bad bad bad
+                                    Limited customization.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <X className="h-4 w-4 shrink-0 text-red-500" />
-                                    bad bad bad bad bad bad bad
+                                    Hard to track invoices.
                                 </li>
                             </div>
                         </ul>
@@ -54,19 +54,19 @@ function BeforeAfter() {
 
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
-                                    good good good good good
+                                    Simple interface.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
-                                    good good good good good
+                                    "Pay Now" button for instant payments.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
-                                    good good good good good
+                                    Fully customizable templates.
                                 </li>
                                 <li className="flex gap-1.5 items-center text-left">
                                     <Check className="h-4 w-4 shrink-0 text-green-600" />
-                                    good good good good good
+                                    Easy invoice tracking.
                                 </li>
                             </div>
                         </ul>
@@ -82,14 +82,14 @@ function BeforeAfter() {
                     </div>
 
                     <div className='text-center font-semibold text-balance text-gray-800'>
-                        I can't imagine my life without <span className='bg-yellow-200'>using this app</span> Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, assumenda Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto, odit
+                        I’ve tried several invoicing tools, but <span className='bg-yellow-200'>InvoVibe</span> is by far the easiest. The clean interface and 'Pay Now' button have made a huge difference in getting paid faster. It's streamlined my business, and I love how customizable the invoices are. Highly recommend!
                     </div>
 
                     <div className='flex mx-auto items-center justify-center gap-4 my-6'>
                         <img src="/users/user-1.png" alt="user" className="inline-block pointer-events-none h-12 w-12 rounded-full ring-2 ring-gray-300" />
                         <div className="flex flex-col">
                             <p className='font-semibold'>John D</p>
-                            <p className='text-sm'>User One</p>
+                            <p className='text-sm'>Small Business Owner</p>
                         </div>
                     </div>
                 </div>
